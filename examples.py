@@ -12,6 +12,7 @@
 #var1 = 456 % 10
 #print(var1)
 
-var = [1,2,3]
-var.append(4)
-print(var)
+#A tuple cannot be appended
+#var = (1,2,3)
+#var.append(4)
+#print(var)

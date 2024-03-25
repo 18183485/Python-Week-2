@@ -16,3 +16,11 @@
 #var = (1,2,3)
 #var.append(4)
 #print(var)
+# For loop
+#for i in range(5):
+ #   print(i)
+
+# While loop
+while x < 5:
+    print(x)
+    x += 1

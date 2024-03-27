@@ -20,7 +20,12 @@
 #for i in range(5):
  #   print(i)
 
-# While loop
-while x < 5:
-    print(x)
-    x += 1
+
+try:
+    1/0
+except ArithmeticError:
+    print('ArithmeticError')
+except Exception:
+    print('Exception')
+except DivisionByZeroError:
+    print('DivisionByZero')

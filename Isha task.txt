@@ -1,0 +1,14 @@
+17A
+Name: Lethabo
+Address: 69 Woodstock
+Age: 34
+17A
+Name: Lethabo
+Address: Woodstock
+Age: 24
+TASK 1 :cLEAN
+TARGET 1 :1
+TASK 2 :Cook
+TARGET 2 :2
+TASK 3 :Work
+TARGET 3 :2
